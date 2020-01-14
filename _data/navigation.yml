@@ -1,19 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/      
+  - title: "About"
+    url: /about/  
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Academic Stuff"
+    url: /academic/
     
-  - title: "CV and Resume"
-    url: /cv/
+  - title: "Contact Me"
+    url: /contact/
     
   - title: "Personal Interests"
     url: /personal/ 
-    
-  - title: "Guide"
-    url: /markdown/
