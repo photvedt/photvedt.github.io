@@ -10,7 +10,13 @@ redirect_from:
 
 Look! Another test!
 
-My Work
+
+# My Work
 ======
 
 I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. 
+
+
+# Miscellaneous Projects
+======
+
