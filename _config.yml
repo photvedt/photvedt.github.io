@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Peter Hotvedt"
 title_separator          : "-"
-name                     : &name "Peter Htvedt"
-description              : &description "Peter is a senior undergraduate student at the University of Wisconsin - Madison studying Nuclear Enegineering and Applied Math"
+name                     : &name "Peter Hotvedt"
+description              : &description "Peter is a senior undergraduate student at the University of Wisconsin - Madison studying Nuclear Engineering and Applied Math"
 url                      : https://peterhotvedt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "photvedt/academicpages.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Peter Hotvedt"
-  avatar           : "profile.png"
-  bio              : "Peter is a senior undergraduate student at the University of Wisconsin - Madison studying Nuclear Enegineering and Applied Math"
+  avatar           : "rainbow_Avi.jpeg"
+  bio              : "Peter is a senior undergraduate student at the University of Wisconsin - Madison studying Nuclear Enegineering and Applied Math. This website is currently under construction."
   location         : "Madison, WI"
   employer         : "UW - Madison"
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/user/725roy/featured
   wikipedia        :
 
 
