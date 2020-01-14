@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /academic/
 title: "Academic Works and Interests"
 excerpt: "This is the page about my academic interests"
 author_profile: true
 redirect_from: 
-  - /academic/
+  - /academic
   - /academic.html
 ---
 
