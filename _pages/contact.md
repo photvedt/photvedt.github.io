@@ -7,4 +7,4 @@ author_profile: true
 
 *UNDER CONSTRUCTION*
 
-But also follow me on Twitter 
+<span font-size:1> But also follow me on Twitter </span>
