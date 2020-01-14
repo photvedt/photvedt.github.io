@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 Look! Another test!
+
+My Interests
+======
+
+I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison.
