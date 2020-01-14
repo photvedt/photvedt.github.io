@@ -9,5 +9,8 @@ main:
   - title: "Contact Me"
     url: /contact/
     
+  - title: "CV"
+    url: /cv/
+    
   - title: "Personal Interests"
     url: /personal/ 
