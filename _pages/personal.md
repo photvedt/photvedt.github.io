@@ -16,7 +16,11 @@ Here is my [strava profile](https://www.strava.com/athletes/48410519). Since I s
 ## Quiz Bowl Packets
 I'm  a bit of a trivia nut, and I participated in a lot of Quiz Bowl through High School (I am the [all-time highest scorer](https://www.naqt.com/stats/school/players.jsp?org_id=58531) at my school, fun fact). In my time doing so, I wrote a few pop-culture (commonly referred to as "trash") packets of my own, which are hosted in the [Trash section of quizbowlpackets.com](https://trash.quizbowlpackets.com/). Here are some of my packets:
 
-  + [M.E.M.E. I.Q.](/files/MEME_IQ.pdf) - A packet written in 2017 about memes
-  + [G.O.R.I.L.L.A.](/files/GORILLA_TRASH.pdf) - Guerrilla Trash written for the Herb Voland Memorial Tournament
+### 2017
+  + [M.E.M.E. I.Q.](/files/MEME_IQ.pdf) - A packet written in 2017 about memes.
+  + [G.O.R.I.L.L.A.](/files/GORILLA_TRASH.pdf) - Guerrilla Trash written for the Herb Voland Memorial Tournament.
+
+### 2018
+  + [P.R.O.B.S.T.](/files/P.R.O.B.S.T..pdf) - A _Survivor_ trvivia packet written for Festivus 2018.
 
   I have a bad habit of making their titles all acronyms.
