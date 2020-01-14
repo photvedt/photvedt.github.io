@@ -7,3 +7,5 @@ redirect_from:
   - /contact/
   - /contact.html
 ---
+
+Hi, yes, follow me on twitter and subscribe to me on Youtube :]
