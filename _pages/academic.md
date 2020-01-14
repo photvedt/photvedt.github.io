@@ -10,12 +10,12 @@ redirect_from:
 
 
 
-# My Work
+## My Work
 
-I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. 
+I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. My research focuses on using MRI and CT images of lungs to quantify levels of functional small airways disease.
 
 
-# Miscellaneous Projects
+## Miscellaneous Projects
 
 Every once in a while, I'll get the itch to try to apply my academics to something outside of tehc onventinoal "academic" field. These are some of those examples:
   
