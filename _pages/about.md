@@ -9,4 +9,6 @@ redirect_from:
   - /
 ---
 
-Hi everyone, how are you today? Thank you for visiting my website! It's still very much under construction, but I hope you enjoy this modest page all the same!
+Hi everyone, how are you today? 
+
+Thank you for visiting my website! It's still very much under construction, but I hope you enjoy this modest page all the same!
