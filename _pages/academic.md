@@ -10,7 +10,7 @@ redirect_from:
 
 Look! Another test!
 
-My Interests
+My Work
 ======
 
-I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison.
+I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. 
