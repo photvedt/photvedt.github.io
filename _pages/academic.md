@@ -19,7 +19,7 @@ Outside of the Fain Lab, I am currently engaged in my senior design project with
 
 ## My Talks and Presentations
 
-Click [here](/_pages/talks.md) to see some of my presented works from conferences and/or other events.
+Click [here](https://photvedt.github.io/academic/talks/) to see some of my presented works from conferences and/or other events.
 
 ## Miscellaneous Projects
 
