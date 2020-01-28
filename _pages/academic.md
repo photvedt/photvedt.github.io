@@ -14,6 +14,12 @@ redirect_from:
 
 I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. My research focuses on using MRI and CT images of lungs to quantify levels of functional small airways disease. 
 
+Outside of the Fain Lab, I am currently engaged in my senior design project with Noah Schweitzer and Tomas Montenegro. Updates on this project will come in time, so stay tuned!
+
+
+## My Talks and Presentations
+
+Click [here](/academic/talks/) to see some of my presented works from conferences and/or other events.
 
 ## Miscellaneous Projects
 
