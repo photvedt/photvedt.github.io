@@ -1,11 +1,9 @@
 ---
-permalink: /voice_work/
+permalink: /voicework/
 title: "Voice Work Information"
 excerpt: "This is the page about my voiceover and voice acting information"
 author_profile: true
-redirect_from: 
-  - /voice_work
-  - /voice_work.html
+redirect_from:
   - /voicework
   - /voicework.html
 ---
