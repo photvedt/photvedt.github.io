@@ -9,6 +9,8 @@ redirect_from:
   - /
 ---
 
-Hi everyone, how are you today? 
+Hi there, how are you today? 
 
-Thank you for visiting my website! It's still very much under construction, but I hope you enjoy this modest page all the same!
+My name is Peter Hotvedt, I'm senior undergraduate student rising into my 5th year, and my final semster at the University of Wisconsin Madison! I am currently studying Nuclear Engineering and Applied Mathematics, and I'll be graduating with degrees in both in December of 2020. I have done research as an undegraduate assistant in Dr. Sean B. Fain's Lab  in the field of Medical Physics, with a specific focus on medical imaging.
+
+
