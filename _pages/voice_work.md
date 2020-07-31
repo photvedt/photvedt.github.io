@@ -4,8 +4,10 @@ title: "Voice Work Information"
 excerpt: "This is the page about my voiceover and voice acting information"
 author_profile: true
 redirect_from: 
-  - /personal
-  - /personal.html
+  - /voice_work
+  - /voice_work.html
+  - /voicework
+  - /voicework.html
 ---
 
 This page is currently under consturction but will feature my demo reels and rates.
