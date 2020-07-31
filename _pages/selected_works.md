@@ -1,7 +1,7 @@
 ---
 permalink: /academic/selected_works/
 title: "Selected Coursework"
-excerpt: "This page contains selected papers and reports I have written fpor my various courses."
+excerpt: "This page contains selected papers and reports I have written for my various courses."
 author_profile: true
 redirect_from: 
   - /selected_work
