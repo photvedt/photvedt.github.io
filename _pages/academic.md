@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 
+## My Academic Work
 
-## My Work
+Click [here](https://photvedt.github.io/academic/selected_works/) to see some of my selected reports I've written for my ccourses, inlcuding my senior design project.
 
-I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. My research focuses on using MRI and CT images of lungs to quantify levels of functional small airways disease. 
 
-Outside of the Fain Lab, I am currently engaged in my senior design project with Noah Schweitzer and Tomas Montenegro. Updates on this project will come in time, so stay tuned!
+## My Undergraduate Research
 
+I am currently doing research under Dr. Sean Fain in the Medical Physics department here in Madison. My research focuses on using MRI and CT images of lungs to quantify levels of functional small airways disease. This research is to be published soon!
 
 ## My Talks and Presentations
 
