@@ -14,7 +14,7 @@ redirect_from:
 
 I gave a talk on the validation of CT images of air trapping against hyperpolarized gas MRI images at the ANS Winter 2019 conference in Washington D.C. The poster can be found [here](/files/ANS_Winter_Poster_Final.pptx). This was my first official poster from my work, and I'm very pleased with it!
 
-<p align=center>
+<p style="text-align:center">
 <img src= "https://github.com/photvedt/photvedt.github.io/blob/master/images/EJ3OAC4XsAIRg4V.jpg" width="400" height="300"/>
 </p>
 
