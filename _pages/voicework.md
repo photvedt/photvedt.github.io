@@ -12,5 +12,5 @@ This page is currently under consturction but will feature my demo reels and rat
 
 Here is a test of the reel
 <audio controls>
-  <source src="voiceover/character_reel/character_reel_july2020_mp3.mp3" type="audio/mpeg">
+  <source src="voiceover/character_reel/character_reel_july2020_mp3" type="audio/mpeg">
 </audio>
