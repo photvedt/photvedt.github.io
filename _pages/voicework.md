@@ -8,7 +8,7 @@ redirect_from:
   - /voicework.html
 ---
 
-This page is currently under consturction but will feature my demo reels and rates.
+This page is currently under construction but will feature my demo reels and rates.
 
 Here is a test of the reel
 <audio controls>
