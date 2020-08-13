@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, how are you today? 
 
-My name is Peter Hotvedt. I am senior undergraduate student studying Nuclear Engineering and Applied Mathematics, at the University of Wisconsin Madison from which I will be graduating December 2020! 
+My name is Peter Hotvedt. I am senior undergraduate student studying Nuclear Engineering and Applied Mathematics, at the University of Wisconsin Madison from which I will be graduating in December 2020! 
 
 This is my personal website! Anything you might want to know about me academically or professionally will be hosted here.
 
