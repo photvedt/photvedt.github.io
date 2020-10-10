@@ -15,5 +15,7 @@ My name is Peter Hotvedt. I am senior undergraduate student studying Nuclear Eng
 
 This is my personal website! Anything you might want to know about me academically or professionally will be hosted here.
 
+My current CV (as of October 10, 2020) can be found here: [Peter Hotvedt's CV](/files/Peter_Hotvedt_CV___Sept_2020__NO_GPA_.pdf)
+
 This page is still under construction, so I appreciate your patience as I continue to build it!
 
