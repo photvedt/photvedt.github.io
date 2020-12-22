@@ -11,11 +11,11 @@ redirect_from:
 
 Hi there, how are you today? 
 
-My name is Peter Hotvedt. I am senior undergraduate student studying Nuclear Engineering and Applied Mathematics, at the University of Wisconsin Madison from which I will be graduating in December 2020! 
+My name is Peter Hotvedt. I am a recent graduate with a Bachelors of Science in Nuclear Engineering with an additional degree in Applied Mathematics and a certificate in Physics, from the University of Wisconsin Madison! 
 
 This is my personal website! Anything you might want to know about me academically or professionally will be hosted here.
 
-My current CV (as of October 10, 2020) can be found here: [Peter Hotvedt's CV](/files/Peter_Hotvedt_CV___Sept_2020__NO_GPA_.pdf)
+My current CV (as of December 22, 2020) can be found here: [Peter Hotvedt's CV](/files/Peter_Hotvedt_CV___202012__WEBSITE_.pdf)
 
 This page is still under construction, so I appreciate your patience as I continue to build it!
 
