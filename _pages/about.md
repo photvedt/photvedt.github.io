@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, how are you today? 
 
-My name is Peter Hotvedt. I am a recent graduate with a Bachelors of Science in Nuclear Engineering with an additional degree in Applied Mathematics and a certificate in Physics, from the University of Wisconsin Madison! 
+My name is Peter Hotvedt. I am a future first year Nuclear Engineering PhD student at the University of Michigan in Dr. Zhong He's [Orion Lab](https://cztlab.engin.umich.edu/)! I graduated with a Bachelors of Science in Nuclear Engineering with an additional degree in Applied Mathematics and a certificate in Physics, from the University of Wisconsin Madison.
 
 This is my personal website! Anything you might want to know about me academically or professionally will be hosted here.
 
