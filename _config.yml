@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peter Hotvedt"
 title_separator          : "-"
 name                     : &name "Peter Hotvedt"
-description              : &description "Peter is a senior undergraduate student at the University of Wisconsin - Madison studying Nuclear Engineering and Applied Math"
+description              : &description "Peter is a Nuclear Engineering graduate student at the University of Michigan. He is a member of the Orion Radiation Measurement Group under Dr. Zhong He."
 url                      : https://photvedt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "photvedt/photvedt.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peter Hotvedt"
   avatar           : "rainbow_avi.png"
-  bio              : "Peter is a senior undergraduate student at the University of Wisconsin - Madison studying Nuclear Engineering and Applied Math. Thank you for visitng his website"
+  bio              : "Peter is a Nuclear Engineering graduate student at the University of Michigan. He is a member of the Orion Radiation Measurement Group under Dr. Zhong He. Thank you for visitng his website!"
   location         : "Madison, WI"
   employer         : "UW - Madison"
   pubmed           : 
