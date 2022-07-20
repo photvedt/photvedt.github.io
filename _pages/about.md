@@ -15,7 +15,7 @@ My name is Peter Hotvedt. I am a second year Nuclear Engineering PhD student at 
 
 This is my personal website! Anything you might want to know about me academically or professionally will be hosted here.
 
-My current CV (as of July 25, 2021) can be found here: [Peter Hotvedt's CV](/files/Peter_Hotvedt_CV___202107_WEBSITE.pdf)
+My current CV (as of July 19, 2022) can be found here: [Peter Hotvedt's CV](/files/Peter_Hotvedt_CV.pdf)
 
 This website is always developing and changing, so I encourage you to come back every so often to see what's new with me!
 

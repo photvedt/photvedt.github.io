@@ -10,7 +10,7 @@ redirect_from:
 
 ## My Current Research
 
-I am a first-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I have an interest in radiation imaging applications and my focus presently involves developing techni
+I am a first-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I have an interest in applications of radiation imaging and image reconstruction!
 
 ## My Undergraduate Research
 
