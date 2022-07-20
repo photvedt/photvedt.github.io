@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Peter Hotvedt"
-  avatar           : "rainbow_avi.png"
+  avatar           : "photvedt_student_id_photo.jpg"
   bio              : "Peter is a Nuclear Engineering graduate student at the University of Michigan. He is a member of the Orion Radiation Measurement Group under Dr. Zhong He. Thank you for visitng his website!"
-  location         : "Madison, WI"
-  employer         : "UW - Madison"
+  location         : "Ann Arbor, MI"
+  employer         : "Nuclear Engineering & Radiation Sciences University of Michigan"
   pubmed           : 
   googlescholar    : 
-  email            : "photvedt@wisc.edu"
+  email            : "photvedt@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
