@@ -8,19 +8,13 @@ redirect_from:
   - /academic.html
 ---
 
-## My Current Progress
+## My Current Research
 
-I am a first-year student in the Orion Radiation Measurement Group under Dr. Zhong He. Presently my focus is on courses, though I am currently developing my academic interest in radiation imaging.
-
+I am a first-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I have an interest in radiation imaging applications and my focus presently involves developing techni
 
 ## My Undergraduate Research
 
 My undergraduate research was done under Dr. Sean Fain in the Medical Physics department at the University of Wisconsin-Madison. My research focused on using MRI and CT images of lungs to quantify levels of functional small airways disease. This research is to be published soon!
-
-
-## My Selected Undergradute Academic Work
-
-Click [here](https://photvedt.github.io/academic/selected_works/) to see some of my selected reports I've written for my courses, including my senior design project.
 
 
 ## My Talks and Presentations
