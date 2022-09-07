@@ -10,7 +10,7 @@ redirect_from:
 
 ## My Current Research
 
-I am a second-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I am currently invovled with projects related to imaging involving CdZnTe radiation detectors, and concepts related to radiography!
+I am a second-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I am currently involved with projects related to radiation imaging with CdZnTe radiation detectors, and concepts related to radiography!
 
 ## My Undergraduate Research
 
