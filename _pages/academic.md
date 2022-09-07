@@ -10,7 +10,7 @@ redirect_from:
 
 ## My Current Research
 
-I am a first-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I have an interest in applications of radiation imaging and image reconstruction!
+I am a second-year student in the Orion Radiation Measurement Group under Dr. Zhong He at the University of Michigan. I am currently invovled with projects related to imaging involving CdZnTe radiation detectors, and concepts related to radiography!
 
 ## My Undergraduate Research
 
@@ -30,5 +30,5 @@ Outside of coursework, I am involved in a variety of different activities and gr
     - I am the Co-Vice Chair for the [Nuclear Engineering Student Delegation](http://nesd.org/) for 2021, and was previously a member of the 2020 Delgation! You can learn more by clicking the link in the previous sentence.
 
 
-+ American Nuclear Society - Student Sections Committee Member
-    - I am wrapping up my first year of a three-year committee membership status. I am excited to be a voice for both undergraduate and graduate students, as well as be a driving positive change-bringer for student sections in ANS.
++ American Nuclear Society - Student Sections Committee Vice Chair
+    - I am one of two Vice Chairs of the American Nuclear Society's Student Section Committee. I am excited to be a voice for both undergraduate and graduate students, as well as be a driving positive change-bringer for student sections in ANS.
