@@ -17,5 +17,7 @@ This is my personal website! Anything you might want to know about me academical
 
 My current CV (as of July 19, 2022) can be found here: [Peter Hotvedt's CV](/files/Peter_Hotvedt_CV.pdf)
 
+If you're here for [VOICE ACTING, CLICK HERE!](photvedt.github.io//voicework/)
+
 This website is always developing and changing, so I encourage you to come back every so often to see what's new with me!
 
