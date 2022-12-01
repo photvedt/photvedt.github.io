@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peter Hotvedt"
   avatar           : "photvedt_student_id_photo.jpg"
-  bio              : "Peter is a Nuclear Engineering graduate student at the University of Michigan. He is a member of the Orion Radiation Measurement Group under Dr. Zhong He. Thank you for visitng his website!"
+  bio              : "Peter is a Nuclear Engineering graduate student at the University of Michigan. He is a member of the Orion Radiation Measurement Group under Dr. Zhong He. Thank you for visiting his website!"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   pubmed           : 
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "PeterHotvedt"
+  twitter          : "VoltageVO"
   vine             :
   weibo            :
   xing             :
