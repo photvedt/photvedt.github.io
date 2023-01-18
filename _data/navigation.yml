@@ -9,5 +9,11 @@ main:
   - title: "Contact Me"
     url: /contact/
     
+  - title: "Digital Garden"
+    url: "https://publish.obsidian.md/myaiba"
+    
   - title: "Personal Interests"
     url: /personal/ 
+    
+   - title: "Voiceover Work
+   url: /voicework
