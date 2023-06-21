@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+
 # Contact Me
 For Business Matters, you can email me at [peterhotvedt@gmail.com](mailto:peterhotvedt@gmail.com).
 I can also be found on Twitter at [@PeterHotvedt](https://twitter.com/PeterHotvedt).
